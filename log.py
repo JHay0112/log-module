@@ -6,7 +6,6 @@
     
     Description:
      - A really terrible python module thing that logs stuff. 
-    
 
     Compatible with Versions:
      - Python 3.6
