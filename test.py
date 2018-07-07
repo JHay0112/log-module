@@ -27,7 +27,7 @@ if(__name__ == "__main__"):
         print("Error Occured")
         log.error("Input Error") # Log input error to log.txt
 
-    print(f"Hi {x}")
-    log.write(f"User name is {x}") # Write to log.txt
+    print(f"Hi {}".format(x))
+    log.write(f"User name is {}".format(x)) # Write to log.txt
 
 log.end() # Log succesful program end

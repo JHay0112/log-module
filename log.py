@@ -5,7 +5,12 @@
     Version: 6.3.1
     
     Description:
-     A really terrible python module thing that logs stuff. 
+     - A really terrible python module thing that logs stuff. 
+    
+
+    Compatible with Versions:
+     - Python 3.6
+     - Python 3.7
 
     What's New:
      - Formatting "error_type" efficently
