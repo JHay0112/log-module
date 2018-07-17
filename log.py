@@ -5,11 +5,15 @@
     Version: 6.3.1
     
     Description:
-     - A really terrible python module thing that logs stuff. 
+     A really terrible python module thing that logs stuff. 
 
-    Compatible with Versions:
+    Compatible with:
      - Python 3.6
      - Python 3.7
+
+    Tested on:
+     - Linux Mint 18.3
+     - Windows 10
 
     What's New:
      - Formatting "error_type" efficently
