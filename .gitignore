@@ -1,5 +1,6 @@
-# I have no idea how to write .gitignore files
+# I have no idea how to write .gitignore files, but this seems to work
 
 /__pychache__/*
 /.vscode/*
+/.vs/*
 *.pyc
